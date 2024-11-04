@@ -1,0 +1,23 @@
+{
+  "name": "assignment_11",
+  "version": "1.0.0",
+  "description": "socket chat example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthvik1904/WebSockets-Chat-with-SocketIO.git"
+  },
+  "author": "Ruthvik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruthvik1904/WebSockets-Chat-with-SocketIO/issues"
+  },
+  "homepage": "https://github.com/ruthvik1904/WebSockets-Chat-with-SocketIO#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  }
+}
